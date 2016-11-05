@@ -167,17 +167,17 @@
     <message>
         <location filename="../src/lib/adblock/adblockdialog.cpp" line="54"/>
         <source>Remove Subscription</source>
-        <translation>İmza Çıkar</translation>
+        <translation>Aboneliği Kaldır</translation>
     </message>
     <message>
         <location filename="../src/lib/adblock/adblockdialog.cpp" line="55"/>
         <source>Update Subscriptions</source>
-        <translation>İmzaları Güncelle</translation>
+        <translation>Aboneliği Güncelle</translation>
     </message>
     <message>
         <location filename="../src/lib/adblock/adblockdialog.cpp" line="57"/>
         <source>Learn about writing rules...</source>
-        <translation>Kural yazımını öğren...</translation>
+        <translation>Yazım kurallarını öğren...</translation>
     </message>
 </context>
 <context>
@@ -238,7 +238,7 @@
     <message>
         <location filename="../src/lib/adblock/adblockmanager.cpp" line="168"/>
         <source>AdBlock Subscription</source>
-        <translation>AdBlock İmzası</translation>
+        <translation>AdBlock Aboneliği</translation>
     </message>
     <message>
         <location filename="../src/lib/adblock/adblockmanager.cpp" line="297"/>
